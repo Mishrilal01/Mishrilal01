@@ -1,16 +1,132 @@
-## Hi there 👋
+👋 Hi, I'm Mishrilal Parihar
 
-<!--
-**Mishrilal01/Mishrilal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering @ Lovely Professional University (CGPA: 8.25)
+📊 Data Analytics & AI Enthusiast
+💡 500+ DSA Problems Solved | Python Developer | Dashboard Builder
 
-Here are some ideas to get you started:
+📍 Jodhpur, Rajasthan
+📧 mishrilalparihar30221@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 LinkedIn
+
+💻 Portfolio Projects
+
+🚀 About Me
+
+I am a passionate Computer Science student focused on Data Analytics, NLP, and Intelligent Systems.
+
+I enjoy transforming raw data into meaningful insights and building AI-powered solutions that solve real-world problems.
+
+From interactive dashboards to NLP-based legal case prediction systems, I believe in learning by building impactful projects.
+
+🛠 Tech Stack
+👨‍💻 Languages
+
+
+
+
+
+
+
+
+📊 Data & Visualization
+
+
+
+
+
+
+
+
+
+
+
+
+⚙ Tools & Concepts
+
+
+
+
+
+
+💼 Internship Experience
+📊 Data Analytics Intern — Unified Mentor Pvt. Ltd. (Remote)
+
+July 2025 – August 2025
+
+Performed data analysis using Pandas, NumPy, Matplotlib & Seaborn
+
+Built interactive business dashboards using Tableau
+
+Completed hands-on capstone project
+
+Applied data storytelling techniques in real-world scenarios
+
+🔥 Featured Projects
+⚖️ AI-Powered Judicial Outcome Prediction & Case Retrieval
+
+Developed NLP pipeline using Legal-BERT
+
+Built semantic search using S-BERT embeddings
+
+Deployed interactive Streamlit web app
+
+Automated legal document cleaning & prediction
+
+🔗 Repository:
+https://github.com/Mishrilal01/AI-POWERED-JUDICIAL-OUTCOME-PREDICTION-CASE-RETRIEVAL
+
+📈 Crime Trends in Cities – Interactive Dashboard
+
+Multi-year crime data analysis
+
+Built dynamic Plotly Dash dashboard
+
+Geo-mapping & area-wise filtering
+
+Insights by month, area, time & demographics
+
+🔗 Repository:
+https://github.com/Mishrilal01/CRIME-TRENDS-IN-CITIES
+
+🧠 Real-Time Memory Allocation Tracker
+
+Simulated OS memory allocation
+
+Visualized paging & segmentation
+
+Interactive GUI using Tkinter
+
+Clean OOP architecture
+
+🔗 Repository:
+https://github.com/Mishrilal01/Real-Time-Memory-Allocation-Tracker
+
+🏆 Achievements
+
+✅ Solved 500+ DSA problems on LeetCode
+
+📊 Built professional Power BI dashboards
+
+🏅 Earned LeetCode consistency badges
+
+📜 Certified in Cloud Computing (NPTEL – IIT Kharagpur)
+
+📈 GitHub Stats
+
+
+
+
+🎯 Current Focus
+
+Advanced Machine Learning
+
+NLP & Transformer Models
+
+Data Engineering Concepts
+
+Interview Preparation
+
+💡 Motto
+
+“Consistency + Projects + Problem Solving = Growth in Tech.”
