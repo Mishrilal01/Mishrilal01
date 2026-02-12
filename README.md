@@ -40,14 +40,12 @@ From interactive dashboards to NLP-based legal case prediction systems, I believ
 
 
 
-
-
-
-
-
-
-
 ⚙ Tools & Concepts
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
+</p>
 
 
 
