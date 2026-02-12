@@ -13,7 +13,9 @@
 
 🚀 About Me
 
-I am a passionate Computer Science student focused on Data Analytics, NLP, and Intelligent Systems.
+I build data-driven systems and AI-powered applications that transform complex data into actionable insights.
+
+Focused on Data Analytics, NLP, and Intelligent Systems.
 
 I enjoy transforming raw data into meaningful insights and building AI-powered solutions that solve real-world problems.
 
@@ -133,3 +135,13 @@ Interview Preparation
 💡 Motto
 
 “Consistency + Projects + Problem Solving = Growth in Tech.”
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mishrilal01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishrilal01&layout=compact&theme=tokyonight" />
+</p>
+
