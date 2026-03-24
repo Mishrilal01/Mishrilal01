@@ -2,15 +2,13 @@
 ### Data Analytics & AI Enthusiast | Python Developer | Problem Solver
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+  <a href="https://www.linkedin.com/in/mis-p/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mishrilal Parihar" />
   </a>
   <a href="mailto:mishrilalparihar30221@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mishrilalparihar30221" />
   </a>
 </p>
-
----
 
 ---
 
@@ -58,8 +56,6 @@ I am a **B.Tech Computer Science** student at **Lovely Professional University (
 - Built interactive business dashboards using **Tableau**.
 - Performed EDA on large datasets using **Pandas** and **Seaborn**.
 - Applied data storytelling to drive business insights.
-
----
 
 ---
 
