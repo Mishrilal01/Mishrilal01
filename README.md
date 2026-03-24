@@ -2,8 +2,12 @@
 ### Data Analytics & AI Enthusiast | Python Developer | Problem Solver
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mis-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mishrilal Parihar" height="30" width="40" /></a>
-<a href="mailto:mishrilalparihar30221@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mishrilalparihar30221" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mis-p/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mishrilal Parihar" />
+  </a>
+  <a href="mailto:mishrilalparihar30221@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mishrilalparihar30221" />
+  </a>
 </p>
 
 ---
