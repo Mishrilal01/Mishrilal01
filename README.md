@@ -59,15 +59,14 @@ I am a **B.Tech Computer Science** student at **Lovely Professional University (
 
 ---
 
-🏆 Achievements & Stats
-🚀 Cleared GATE 2026 (Computer Science & Information Technology) – Highlighting strong fundamentals in Algorithms, OS, DBMS, and Networking.
+---
 
-✅ 500+ DSA Problems solved on LeetCode (View Profile).
+### 🏆 Achievements & Stats
 
-📜 Cloud Computing Certified (NPTEL – IIT Kharagpur).
-
-🏅 LeetCode Consistency Badges holder for year-long problem-solving streaks.
-
+- 🚀 **Cleared GATE 2026 (Computer Science & IT)** *Demonstrated proficiency in core CS fundamentals including Algorithms, OS, and DBMS.*
+- ✅ **500+ DSA Problems** solved on LeetCode ([View Profile](https://leetcode.com/u/mishrilalparihar30221/))
+- 📜 **Cloud Computing Certified** (NPTEL – IIT Kharagpur)
+- 🏅 **LeetCode Consistency Badges** for year-long problem-solving streaks
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mishrilal01&show_icons=true&theme=radical" alt="Mishrilal Stats" />
