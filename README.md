@@ -1,147 +1,75 @@
-👋 Hi, I'm Mishrilal Parihar
-
-🎓 B.Tech Computer Science Engineering @ Lovely Professional University (CGPA: 8.25)
-📊 Data Analytics & AI Enthusiast
-💡 500+ DSA Problems Solved | Python Developer | Dashboard Builder
-
-📍 Jodhpur, Rajasthan
-📧 mishrilalparihar30221@gmail.com
-
-🔗 LinkedIn
-
-💻 Portfolio Projects
-
-🚀 About Me
-
-I build data-driven systems and AI-powered applications that transform complex data into actionable insights.
-
-Focused on Data Analytics, NLP, and Intelligent Systems.
-
-I enjoy transforming raw data into meaningful insights and building AI-powered solutions that solve real-world problems.
-
-From interactive dashboards to NLP-based legal case prediction systems, I believe in learning by building impactful projects.
-
-🛠 Tech Stack
-👨‍💻 Languages
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-📊 Data & Visualization
+# 👋 Hi, I'm Mishrilal Parihar
+### Data Analytics & AI Enthusiast | Python Developer | Problem Solver
 
 <p align="left">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mis-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mishrilal Parihar" height="30" width="40" /></a>
+<a href="mailto:mishrilalparihar30221@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mishrilalparihar30221" height="30" width="40" /></a>
 </p>
-
-
-
-
-⚙ Tools & Concepts
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
-</p>
-
-
-
-
-
-
-💼 Internship Experience
-📊 Data Analytics Intern — Unified Mentor Pvt. Ltd. (Remote)
-
-July 2025 – August 2025
-
-Performed data analysis using Pandas, NumPy, Matplotlib & Seaborn
-
-Built interactive business dashboards using Tableau
-
-Completed hands-on capstone project
-
-Applied data storytelling techniques in real-world scenarios
-
-🔥 Featured Projects
-⚖️ AI-Powered Judicial Outcome Prediction & Case Retrieval
-
-Developed NLP pipeline using Legal-BERT
-
-Built semantic search using S-BERT embeddings
-
-Deployed interactive Streamlit web app
-
-Automated legal document cleaning & prediction
-
-🔗 Repository:
-https://github.com/Mishrilal01/AI-POWERED-JUDICIAL-OUTCOME-PREDICTION-CASE-RETRIEVAL
-
-📈 Crime Trends in Cities – Interactive Dashboard
-
-Multi-year crime data analysis
-
-Built dynamic Plotly Dash dashboard
-
-Geo-mapping & area-wise filtering
-
-Insights by month, area, time & demographics
-
-🔗 Repository:
-https://github.com/Mishrilal01/CRIME-TRENDS-IN-CITIES
-
-🧠 Real-Time Memory Allocation Tracker
-
-Simulated OS memory allocation
-
-Visualized paging & segmentation
-
-Interactive GUI using Tkinter
-
-Clean OOP architecture
-
-🔗 Repository:
-https://github.com/Mishrilal01/Real-Time-Memory-Allocation-Tracker
-
-🏆 Achievements
-
-✅ Solved 500+ DSA problems on LeetCode
-
-📊 Built professional Power BI dashboards
-
-🏅 Earned LeetCode consistency badges
-
-📜 Certified in Cloud Computing (NPTEL – IIT Kharagpur)
-
-📈 GitHub Stats
-
-
-
-
-🎯 Current Focus
-
-Advanced Machine Learning
-
-NLP & Transformer Models
-
-Data Engineering Concepts
-
-Interview Preparation
-
-💡 Motto
-
-“Consistency + Projects + Problem Solving = Growth in Tech.”
 
 ---
 
-## 📊 GitHub Analytics
+### 🚀 About Me
+I am a **B.Tech Computer Science** student at **Lovely Professional University (CGPA: 8.25)** based in Jodhpur, Rajasthan. I specialize in building data-driven systems and AI-powered applications that transform complex data into actionable insights.
+
+- 🔭 **Current Focus:** Advanced Machine Learning, NLP & Transformer Models.
+- ⚡ **Fun Fact:** I've solved **500+ DSA problems** and love translating logic into clean code.
+- 🎯 **Motto:** "Consistency + Projects + Problem Solving = Growth in Tech."
+
+---
+
+### 🛠 Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **AI & Data** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
+| **Deployment** | ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
+
+---
+
+### 🔥 Featured Projects
+
+#### ⚖️ AI-Powered Judicial Outcome Prediction
+*Developed an NLP pipeline using **Legal-BERT** for outcome prediction and **S-BERT** for semantic precedent retrieval.*
+- **Tech:** Python, Legal-BERT, Streamlit, S-BERT.
+- [View Repository](https://github.com/Mishrilal01/AI-POWERED-JUDICIAL-OUTCOME-PREDICTION-CASE-RETRIEVAL)
+
+#### 📈 Crime Trends in Cities – Interactive Dashboard
+*Dynamic Plotly Dash application for multi-year crime analysis with geo-mapping.*
+- **Tech:** Python, Plotly Dash, Pandas, Geo-mapping.
+- [View Repository](https://github.com/Mishrilal01/CRIME-TRENDS-IN-CITIES)
+
+#### 🧠 Real-Time Memory Allocation Tracker
+*OS memory allocation simulation (Paging & Segmentation) with an interactive Tkinter GUI.*
+- **Tech:** Python, Tkinter, OOP.
+- [View Repository](https://github.com/Mishrilal01/Real-Time-Memory-Allocation-Tracker)
+
+---
+
+### 💼 Experience
+**Data Analytics Intern** | *Unified Mentor Pvt. Ltd.* (July 2025 – Aug 2025)
+- Built interactive business dashboards using **Tableau**.
+- Performed EDA on large datasets using **Pandas** and **Seaborn**.
+- Applied data storytelling to drive business insights.
+
+---
+
+🏆 Achievements & Stats
+🚀 Cleared GATE 2026 (Computer Science & Information Technology) – Highlighting strong fundamentals in Algorithms, OS, DBMS, and Networking.
+
+✅ 500+ DSA Problems solved on LeetCode (View Profile).
+
+📜 Cloud Computing Certified (NPTEL – IIT Kharagpur).
+
+🏅 LeetCode Consistency Badges holder for year-long problem-solving streaks.
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mishrilal01&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishrilal01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mishrilal01&show_icons=true&theme=radical" alt="Mishrilal Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mishrilal01&theme=radical" alt="Mishrilal Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishrilal01&layout=compact&theme=radical" alt="Top Languages" />
+</p>
