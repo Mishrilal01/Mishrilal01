@@ -13,12 +13,20 @@
 ---
 
 ### 🚀 About Me
-I am a **B.Tech Computer Science** student at **Lovely Professional University (CGPA: 8.25)** based in Jodhpur, Rajasthan. I specialize in building data-driven systems and AI-powered applications that transform complex data into actionable insights.
+I build **data-driven and AI-powered systems** that transform complex data into meaningful insights and real-world solutions.  
 
-- 🔭 **Current Focus:** Advanced Machine Learning, NLP & Transformer Models.
-- ⚡ **Fun Fact:** I've solved **500+ DSA problems** and love translating logic into clean code.
-- 🎯 **Motto:** "Consistency + Projects + Problem Solving = Growth in Tech."
+Currently pursuing **B.Tech in Computer Science (Data Analytics)** at **Lovely Professional University (CGPA: 8.25)**. I enjoy solving problems, building intelligent systems, and continuously improving through hands-on projects.
 
+- 🔭 **Current Focus:** Machine Learning, NLP & Transformer Models  
+- ⚡ **Problem Solving:** Solved **500+ DSA problems** on LeetCode  
+- 🎯 **Approach:** Consistency + Projects + Problem Solving  
+
+---
+
+### ⚡ Currently Working On
+- Building real-world **Machine Learning & NLP projects**
+- Improving **DSA & problem-solving skills (600+ target)**
+- Exploring **deep learning & transformer architectures**
 ---
 
 ### 🛠 Tech Stack
@@ -74,3 +82,12 @@ I am a **B.Tech Computer Science** student at **Lovely Professional University (
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishrilal01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+### 📬 Let's Connect
+- 💼 Open to **Data Analyst / ML / AI roles**
+- 📧 Email: mishrilalparihar30221@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mis-p/
+
+---
